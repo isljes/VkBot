@@ -50,7 +50,7 @@ You have two ways to run this application:
 > ###### 1. Build docker image
 > ` docker build -t vkBot .`
 > ###### 2. Run docker container
-> ` docker run --name=vkBot -d -p 8090:8090 responder`
+> ` docker run --name=vkBot -d -p 8090:8090 vkBot`
 `
 
 ### Test case
