@@ -13,7 +13,7 @@
 
 #### 1. Clone repository
 
-> `git clone git@github.com:Mityushin/Responder.git`
+> `git clone https://github.com/isljes/VkBot.git`
 
 #### 2. Setup VK API properties
 
