@@ -3,7 +3,7 @@
 #### Requires:
 
 * [JDK 17](https://www.oracle.com/java/technologies/downloads/#java17)
-* [Docker](https://www.docker.com/)
+* [Docker](https://www.docker.com/) (Optional)
 
 ### Bot`s work example
 *   [Link](https://vk.com/club226084398)
